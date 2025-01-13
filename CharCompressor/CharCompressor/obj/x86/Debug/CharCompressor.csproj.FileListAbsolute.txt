@@ -1,0 +1,8 @@
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\bin\Debug\CharCompressor.exe
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\bin\Debug\CharCompressor.pdb
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\obj\x86\Debug\CharCompressor.charCompressorForm.resources
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\obj\x86\Debug\CharCompressor.Properties.Resources.resources
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\obj\x86\Debug\CharCompressor.exe
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\obj\x86\Debug\CharCompressor.pdb
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\obj\x86\Debug\CharCompressor.csproj.GenerateResource.Cache
+C:\Users\WiLL\Documents\ClimateMonitor\CharCompressor\CharCompressor\obj\x86\Debug\CharCompressor.csprojResolveAssemblyReference.cache

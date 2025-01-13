@@ -1,0 +1,8 @@
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\bin\Release\TemperatureConverter.exe.config
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\bin\Release\TemperatureConverter.exe
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\bin\Release\TemperatureConverter.pdb
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\obj\Release\TemperatureConverter.TempConverter.resources
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\obj\Release\TemperatureConverter.Properties.Resources.resources
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\obj\Release\TemperatureConverter.csproj.GenerateResource.Cache
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\obj\Release\TemperatureConverter.exe
+C:\Users\Will\Documents\ClimateMonitor\TemperatureConverter\TemperatureConverter\obj\Release\TemperatureConverter.pdb
